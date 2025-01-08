@@ -1,0 +1,129 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+}
+
+header h1 {
+    color: whitesmoke;
+    margin: 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+header nav ul li a {
+    color: sandybrown;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+header nav ul li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
+#Home img {
+    height: 150px;
+    width: 200px;
+    border-radius: 90%;
+    margin-top: 10px;
+    border: 3px solid #ccc;
+}
+
+main p {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+#Portfolio ul {
+    padding: 0;
+}
+
+#Portfolio ul li {
+    margin: 10px 0;
+}
+
+#Portfolio ul li a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+#Portfolio ul li a:hover {
+    text-decoration: underline;
+}
+
+#Skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+#Skills ul li {
+    display: block;
+    margin: 10px 0;
+}
+
+#Contact {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin: 20px 0;
+    border-top: 2px solid #ddd;
+}
+
+#Contact p {
+    margin: 10px auto;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+#Contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+#Contact ul li {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+#Contact ul li a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+#Contact ul li a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
